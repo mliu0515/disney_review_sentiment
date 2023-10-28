@@ -6,12 +6,12 @@ import openai
 
 
 # Connection parameters
-dbname = 'moviereviews'
-user = 'myuser'
-password = 'p0stmAt3s@night'
+dbname = ...
+user = ...
+password = ...
 host = 'localhost'  # or your server's IP
 port = '5432'  # default PostgreSQL port
-openai.api_key = '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'
+openai.api_key = ...
 
 
 # classifier = pipeline("sentiment-analysis")
